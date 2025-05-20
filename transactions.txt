@@ -1,0 +1,3 @@
+income,salary,20000.0,2025-05-20
+expense,food,2000.0,2025-05-20
+income,business,30000.0,2025-05-21
